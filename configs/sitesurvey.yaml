@@ -1,0 +1,25 @@
+API:
+    token: bc3ec4f76639fa0e04c1dfef0ef14ebbeec9f90fa1aff2120a3bceb4ecacf5cb
+config_name: sitesurvey
+export_options:
+    export_path: S:\DoD Projects\Site Survey\000-Unsorted exports
+    timezone:
+    filename: f3245d40-ea77-11e1-aff1-0800200c9a66
+    export_archived: false
+    export_completed: true
+    use_real_template_name: false
+    export_inactive_items: false
+    export_profiles:
+    template_ids: template_c61532b638464b628640940856e3a368
+    sync_delay_in_seconds: 900
+    media_sync_offset_in_seconds: 900
+    merge_rows: false
+    actions_merge_rows: false
+    sql_table: iauditor_data
+    database_type: mssql+pyodbc_mssql
+    database_user:
+    database_pwd:
+    database_server:
+    database_port: 1433
+    database_schema: dbo
+    database_name: iAuditor?driver=ODBC Driver 17 for SQL Server
